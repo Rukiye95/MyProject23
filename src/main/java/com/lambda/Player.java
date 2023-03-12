@@ -1,4 +1,4 @@
-package com;
+package com.lambda;
 
 public abstract class Player {
 

@@ -1,4 +1,4 @@
-package com;
+package com.lambda;
 
 import java.util.ArrayList;
 
